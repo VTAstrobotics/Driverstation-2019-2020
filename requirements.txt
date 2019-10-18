@@ -1,0 +1,4 @@
+future==0.18.1
+pyglet==1.4.5
+PyQt5==5.13.1
+PyQt5-sip==12.7.0
